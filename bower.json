@@ -1,0 +1,36 @@
+{
+  "name": "jquery.insight",
+  "version": "0.3.0",
+  "description": "check if elements are in viewport",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamso/jquery.insight.git"
+  },
+  "authors": [
+    "Steve Ottoz <so@dev.so>"
+  ],
+  "main": "dist/jquery.insight.min.js",
+  "license": "MIT",
+  "homepage": "https://github.com/iamso/jquery.insight.git",
+  "ignore": [
+    ".bower.json",
+    ".editorconfig",
+    ".git",
+    ".gitattributes",
+    ".gitignore",
+    "demo",
+    "doc",
+    "extensions",
+    "grunt",
+    "Gruntfile.js",
+    "node_modules",
+    "src"
+  ],
+  "keywords": [
+    "jquery",
+    "viewport"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
